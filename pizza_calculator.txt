@@ -25,3 +25,31 @@ Output:
  -Number of Large Pizzas (int)
  -Number of Medium Pizzas (int)
  -Number of Small Pizzas (int)
+ 
+ Examples:
+ 
+ 1)
+ Input
+ -People that will eat 4 slices: 3
+ -People that will eat 3 slices: 2
+ -People that will eat 2 slices: 0
+ -People that will eat 1 slice:  8
+ 
+ Output
+ -Total Slices:  26
+ -Large Pizzas:  3
+ -Medium Pizzas: 0 
+ -Small Pizzas:  1
+ 
+ 2)
+ Input
+ -People that will eat 4 slices: 0
+ -People that will eat 3 slices: 5
+ -People that will eat 2 slices: 8
+ -People that will eat 1 slice:  6
+ 
+ Output
+ -Total Slices:  37
+ -Large Pizzas:  4
+ -Medium Pizzas: 1 
+ -Small Pizzas:  0
