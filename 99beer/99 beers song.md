@@ -1,4 +1,4 @@
-99 Bottles of Beer
+99 Bottles of Beer (1 Point)
 =
 
 **The Challenge:**
