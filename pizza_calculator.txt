@@ -1,0 +1,27 @@
+Pizza Calculator
+
+Value: 5 (points)
+
+Description:
+ -Gets number of people according to number of slices they will eat.
+ -Returns total of slices and number of Pizzas by size
+
+Specifications:
+ -A person can eat 4, 3, 2 or 1 slice
+ -Pizzas Sizes: 
+    Small (4 slices)
+    Medium (6 slices)
+    Large (8 slices)
+ -Has to be efficient: Minimum slice waste!
+ 
+Inputs:
+ -Number of People that will eat 4 slices (int)
+ -Number of People that will eat 3 slices (int)
+ -Number of People that will eat 2 slices (int)
+ -Number of People that will eat 1 slice (int)
+
+Output:
+ -Total Slices (int)
+ -Number of Large Pizzas (int)
+ -Number of Medium Pizzas (int)
+ -Number of Small Pizzas (int)
