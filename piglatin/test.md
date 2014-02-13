@@ -1,8 +1,8 @@
-English => Pig Latin
-
-Value: 3 (points)
+English => Pig Latin (3 Points)
+=
 
 Description
+
 - English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”.
 
 Specifications:
