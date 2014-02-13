@@ -20,9 +20,9 @@ Output
 Example
 -
 
-Input: Sign me up for first coding challenge
+**Input:** Sign me up for first coding challenge
 
-Output: Ignsay emay puay orfay irstfay odingcay hallengecay
+**Output:** Ignsay emay puay orfay irstfay odingcay hallengecay
 
 
 Pig Latin = > English (3 Points)
@@ -47,6 +47,6 @@ Output
 Example
 -
 
-Input: Ignsay emay puay orfay irstfay odingcay hallengecay
+**Input:** Ignsay emay puay orfay irstfay odingcay hallengecay
 
-Output: Sign me up for first coding challenge
+**Output:** Sign me up for first coding challenge
