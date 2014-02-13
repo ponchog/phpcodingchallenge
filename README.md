@@ -6,7 +6,6 @@ Welcome to the 1st PHP Coding Challenge!
 	<li>You have an hour to finish the challenge</li>
 	<li>You must use PHP as your main language to code the application</li>
 	<li>You can run your programs in console or create htmls to capture and show results</li>
-	<li>You can use front-end scripting languages like JavaScript, JQuery or Angular</li>
 	<li>You can use images from the web, interface templates or any kind of UI enhancer you like. There are no restrictions for the application visual design</li>
 	<li>You will have to turn in your code so try to keep it as organized as possible</li>
 	<li>JSON files will be provided to speed up development</li>
