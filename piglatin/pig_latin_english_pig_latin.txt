@@ -1,5 +1,5 @@
-English => Pig Latin
-===
+=English => Pig Latin
+
 Value: 3 (points)
 
 Description
