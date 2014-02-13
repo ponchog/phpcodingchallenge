@@ -1,4 +1,4 @@
-Pizza Calculator
+Pizza Calculator (5 Points)
 =
 
 The challenge
