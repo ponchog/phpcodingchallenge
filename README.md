@@ -2,10 +2,11 @@ Welcome to the 1st PHP Coding Challenge!
 ==================
 
 RULES
-
-You have an hour to finish the challenge
-You must use PHP as your main language to code the application
-You can use a framework for quick production: Zend, Laravel, Yii, Cake, etc.
+<ul>
+<li>You have an hour to finish the challenge</li>
+<li>You must use PHP as your main language to code the application</li>
+<li>You can use a framework for quick production: Zend, Laravel, Yii, Cake, etc.</li>
+</ul>
 You can use front-end scripting languages like JavaScript, JQuery and Angular
 You may or may not use any Database engine like MySQL or non-relational databases like MongoDB or BaseX
 You can use files to store your information instead of a Database
