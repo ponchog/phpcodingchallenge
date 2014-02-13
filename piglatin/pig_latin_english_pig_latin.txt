@@ -1,4 +1,4 @@
-<b>English => Pig Latin</b>
+English => Pig Latin
 
 Value: 3 (points)
 
