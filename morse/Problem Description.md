@@ -1,4 +1,4 @@
-English to Morse Code Translator
+English to Morse Code Translator (7 Points)
 =
 
 Write a program that automatically converts English text to Morse code.
