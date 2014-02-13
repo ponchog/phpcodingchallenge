@@ -11,7 +11,7 @@ Output
 -
 A morse code equivalent is expected. All spaces have to be replaced with the '/' character.
 
-Examples:
+Examples
 -
 Input: A
 
@@ -27,7 +27,7 @@ Input: 99 bottles of beer on the wall.
 
 Output: ----.----./-...-----.-....../---..-./-......-./----./-...../.--.-.-...-...-.-.-
 
-Help:
+Help
 -
-Since we like you so much, we've decided to help you out on this one by providing the morse code for every letter on the alphabet, simply copy and paste it in your code:
+Since we like you so much, we've decided to help you out on this one by providing the morse code for every letter on the alphabet, simply copy and paste it in your code. [Click here to get it](https://github.com/ponchog/phpcodingchallenge/blob/master/morse/morsecodes.txt)
 
