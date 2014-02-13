@@ -1,31 +1,27 @@
-99 Bottles of Beer (1 Point)
+Currency Converter (2 Points)
 =
 
 **The Challenge:**
 
-Write a program that prints the lyrics to of the song ["99 Bottles of Beer"](http://99-bottles-of-beer.net/lyrics.html)
+Write a program that converts US dollars to other euros, british pounds and pesos.
+
+Use the following currency convertions:
+- 1 US dollar = 0.73 euros
+- 1 US dollar = 0.60 british pounds
+- 1 US dollar = 13 pesos
+
+The user will enter the amount of money in US dollars, then he/she will be prompted to choose the currency they want to covert it to.
 
 Input:
 -
-No input given for this problem.
+- User will enter an amount in US dollars.
+- After the user enters the amount, he/she will be prompted to choose the currency to which they want to convert it.
 
 Output:
 -
-**The lyrics of the entire "99 Bottle of Beer" song** | [Click here for reference](http://99-bottles-of-beer.net/lyrics.html)
+- The equivalent amount in dollars of the currency they selected
 
-"99 bottles of beer on the wall, 99 bottles of beer.
-Take one down and pass it around, 98 bottles of beer on the wall."
-
-"98 bottles of beer on the wall, 98 bottles of beer.
-Take one down and pass it around, 97 bottles of beer on the wall."
-
-...
-
-"2 bottles of beer on the wall, 2 bottles of beer.
-Take one down and pass it around, 1 **bottle** of beer on the wall."
-
-"1 bottle of beer on the wall, 1 bottle of beer.
-Take one down and pass it around, **no more bottles** of beer on the wall."
-
-"**No more bottles** of beer on the wall, no more bottles of beer. 
-Go to the store and buy some more, 99 bottles of beer on the wall."
+Example
+-
+Input: Please
+Output:
