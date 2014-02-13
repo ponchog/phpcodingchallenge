@@ -31,13 +31,13 @@ Example
 -
 "Enter the amount in US dollars: $"
 
-**Input:** 235
+**Input:** 10
 
 "What currency do you want to convert to? (E)uros, (P)esos, (B)ritish Pounds: "
 
 **Input:** E
 
-**Output:** $10 is equivalent to 0.73 euros
+**Output:** $10 is equivalent to 7.3 euros
 
 -
 
@@ -49,4 +49,4 @@ Example
 
 **Input:** P
 
-**Output:** $10 is equivalent to 3130.2 pesos
+**Output:** $235 is equivalent to 3130.2 pesos
