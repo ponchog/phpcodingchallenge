@@ -39,5 +39,69 @@ After you entered how many of your guests eat 4 slices of pizza, your program wi
 Example
 -
 
+**Example 1**
+
+**Input:**
+
+"How many guests eat only 1 slice of pizza:" 8
+
+"How many guests eat 2 slices of pizza:" 0
+
+"How many guests eat 3 slices of pizza:" 0
+
+"How many guests eat 4 slices of pizza:" 0
+
+**Output:**
+
+"Large Pizzas: 1"
+
+"Medium Pizzas: 0"
+
+"Small Pizzas: 0"
+
+-
+
+**Example 2**
+
+**Input:**
+
+"How many guests eat only 1 slice of pizza:" 3
+
+"How many guests eat 2 slices of pizza:" 0
+
+"How many guests eat 3 slices of pizza:" 0
+
+"How many guests eat 4 slices of pizza:" 0
+
+**Output:**
+
+"Large Pizzas: 0"
+
+"Medium Pizzas: 0"
+
+"Small Pizzas: 1"
+
+-
+
+**Example 3**
+
+**Input:**
+
+"How many guests eat only 1 slice of pizza:" 10
+
+"How many guests eat 2 slices of pizza:" 10
+
+"How many guests eat 3 slices of pizza:" 10
+
+"How many guests eat 4 slices of pizza:" 10
+
+**Output:**
+
+"Large Pizzas: 12"
+
+"Medium Pizzas: 0"
+
+"Small Pizzas: 1"
+
 
 
