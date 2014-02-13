@@ -31,7 +31,7 @@ Welcome to the 1st PHP Coding Challenge!
 	<li>3) English => Pig Latin : 3 points</li>
 	<li>4) Pig Latin => English : 3 points</li>
 	<li>5) Currency Converter : 2 points</li>
-	<li>6) 99 Bottle Song : 1 point</li>
+	<li>6) 99 Bottles Song : 1 point</li>
 </ul>
 
 <b>EVALUATION CRITERIA</b>
