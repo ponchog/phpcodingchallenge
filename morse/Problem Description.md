@@ -13,19 +13,21 @@ A morse code equivalent is expected. All spaces have to be replaced with the '/'
 
 Examples
 -
-Input: A
+The user will be asked **"Enter the text you want to translate to morse code:"**
 
-Output: .-
+**Input:** A
 
--
-Input: Codeup
-
-Output: -.-.----.....-.--.
+**Output:** .-
 
 -
-Input: 99 bottles of beer on the wall.
+**Input:** Codeup
 
-Output: ----.----./-...-----.-....../---..-./-......-./----./-...../.--.-.-...-...-.-.-
+**Output:** -.-.----.....-.--.
+
+-
+**Input:** 99 bottles of beer on the wall.
+
+**Output:** ----.----./-...-----.-....../---..-./-......-./----./-...../.--.-.-...-...-.-.-
 
 Help
 -
