@@ -60,7 +60,6 @@ Welcome to the 1st PHP Coding Challenge!
 	<li>www.techuphq.com</li>
 	<li>Challenge Description and JSON file:</li>
 	<li>https://github.com/ponchog/phpcodingchallenge</li>
-	<li>Facilitators:</li> 
 	<li>Rafa Barroso (<a href="mailto:rafa@parlevelsystems.com">rafa@parlevelsystems.com</a>)</li>
 	<li>Poncho García (<a href="mailto:poncho@parlevelsystems.com">poncho@parlevelsystems.com</a>)</li>
 	<li>If you have any questions, don't hesitate to ask!</li>
