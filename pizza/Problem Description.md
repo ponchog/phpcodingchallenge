@@ -6,12 +6,13 @@ The challenge
 You are at a party, your guests are getting hungry and you, as a good host, would like to order some pizza for them. The problem is that you don't know how many slices each person eats, neither how many large, medium or small pizzas to order.
 So you go and ask around your guests to find out who eats 1 slice of pizza, 2 slices of pizza, 3 slices of pizza or 4 slices of pizza. For the sake of this problem, your guests don't eat more than 4 slices of pizza...
 
-These are the sizes of the pizzas
-- Large - 8 slices
-- Medium - 6 slices
-- Small - 4 slices
-
-After you gather all the data, you enter it into your program and it magically gives you the right answer.
+Specifications:
+-
+Your solution should work for any chess board size.
+A chess board is always a square.
+Bishops can only move diagonally.
+The bishop can be placed on any square of the board (black or white).
+Find the number of squares the bishop is attacking without including his own square.
 
 Input
 -
